@@ -367,7 +367,7 @@ body{
   body { font-size: 16px; }
   .container { padding: 10px 50px; }
  
-  #back-to-top-btn { font-size: 18px; width: 32px; height: 32px; bottom: 6px; right: 6px; }
+  #back-to-top-btn { font-size: 13px; width: 32px; height: 32px; bottom: 6px; right: 6px; }
 }
 
 /* Animations */
