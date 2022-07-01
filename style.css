@@ -344,8 +344,8 @@ body{
   font-size: 26px;
   width: 50px;
   height: 50px;
-  background-color: #fff;
-  color: rgb(12, 238, 162);
+  background-color:rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   cursor: pointer;
   outline: none;
   border: 3px solid #333;
@@ -356,7 +356,7 @@ body{
 }
 #back-to-top-btn:hover, #back-to-top-btn:focus {
   background-color: #333;
-  color: #fff;  
+  color: rgb(0, 0, 0);  
 }
 
 @media(max-width: 992px) {
