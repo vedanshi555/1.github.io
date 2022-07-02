@@ -127,6 +127,7 @@ body{
   }
 
   .textfooter{
+      margin:0px;
     color: white;
     text-align: center;
    padding: 30px;
