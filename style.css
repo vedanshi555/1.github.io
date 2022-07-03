@@ -512,7 +512,7 @@ body{
 
 /* Style the buttons that are used to open the tab content */
 .tab button {
-  WIDTH: 59px;
+  WIDTH: 55px;
   font-size: 10px;
   color: white;
   background-color: inherit;
