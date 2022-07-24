@@ -621,6 +621,14 @@ background: #10171d;
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
   }
-
+.imagemain{
+   text-align:center;
+   justify-content:center;
+}
+.mainimg{
+   
+    border-radius: 50%;
+    width: 150px;
+}
 /* typing thing */
  
