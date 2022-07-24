@@ -83,7 +83,7 @@ function openCity(evt, cityName) {
 }
 
 /*tytytytytytytytytytyt*/
-onst typedTextSpan = document.querySelector(".typed-text");
+const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
 const textArray = ["BOOKS","PREVIOUS YEAR PAPERS","ASSIGNMENTS","STUDY MATERIAL"] ;
