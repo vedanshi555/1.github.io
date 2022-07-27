@@ -22,7 +22,7 @@ go to the [website](https://kartik2220.github.io/kartikgajjar.github.io/) homepa
 - Switch to the cloned folder. You can paste this command into the same terminal window.
 
 ```bash
-  cd hacktoberfest-practice
+  cd kartikgajjar.github.io
 ```
 - do the changes that is required and the reason of why you forked this at first place. for example to solve to issue.
 
@@ -35,7 +35,7 @@ go to the [website](https://kartik2220.github.io/kartikgajjar.github.io/) homepa
 - Commit the changes.
 
 ```bash
-  git commit -m "Add <your-github-username>"
+  git commit -m "Add <title your change>"
 ```
 
 - Check the status of your repository.
