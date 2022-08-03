@@ -1,4 +1,4 @@
-# [kartikgajjar.github.io](https://kartik2220.github.io/kartikgajjar.github.io/)
+# [kartikgajjar.github.io](https://kartikgajjar7.github.io/1.github.io/)
 
 ## Hey!
 ![](website.png)
@@ -7,7 +7,7 @@ This is a free and open source work based on HTML, CSS and JavaScript That helps
 
 ## how you can use the website?
 
-go to the [website](https://kartik2220.github.io/kartikgajjar.github.io/) homepage, there you will see many semesters' option, then you can select the semester that you are in. you will find all the subjects that are in that semester and the material related to that. you can just simpley download the material you want by clicking on it.
+go to the [website](https://kartikgajjar7.github.io/1.github.io/) homepage, there you will see many semesters' option, then you can select the semester that you are in. you will find all the subjects that are in that semester and the material related to that. you can just simpley download the material you want by clicking on it.
 
 ## how to contribute here?
 
@@ -16,13 +16,13 @@ go to the [website](https://kartik2220.github.io/kartikgajjar.github.io/) homepa
 - Run the following commands into a terminal window (Command Prompt, Powershell, Terminal, Bash, ZSH). Do this to download the forked copy of this repository to your computer.
 
 ```bash
-  git clone https://github.com/YOUR_GITHUB_USERNAME/hacktoberfest-practice.git
+  git clone https://github.com/YOUR_GITHUB_USERNAME/1.github.io.git
 ```
 
 - Switch to the cloned folder. You can paste this command into the same terminal window.
 
 ```bash
-  cd kartikgajjar.github.io
+  cd 1.github.io
 ```
 - do the changes that is required and the reason of why you forked this at first place. for example to solve to issue.
 
@@ -53,7 +53,7 @@ go to the [website](https://kartik2220.github.io/kartikgajjar.github.io/) homepa
 
 - and after if you get approved by the maintainers of this repository for the changes you made, voila! you made your contribution.
 
-if you get into any problems and errors while doing any process feel free to connect with us via [discussion](https://github.com/Kartik2220/kartikgajjar.github.io/discussions). connect with people to ask questions and suggest your new ideas to make the website more better.
+if you get into any problems and errors while doing any process feel free to connect with us via [discussion](https://github.com/Kartikgajjar7/1.github.io/discussions). connect with people to ask questions and suggest your new ideas to make the website more better.
 
 **thank you for coming here!** 
 
